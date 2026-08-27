@@ -1,7 +1,7 @@
 #include<iostream>
 using namespace std;
 int main(){
-     char n;
+    char n;
     cout<<"enter the input : ";
     cin>>n;
     if(n>='a' && n<='z'){
