@@ -15,7 +15,7 @@
 
 
 
-### 1. Hollow Pyramid
+### 1. Hollow Pyramid (⭐ Rating: 10/10)
 ```
     *
    * *
@@ -25,7 +25,7 @@
 ```
 
 
-### 2. Binary Triangle (Alternating 0/1)
+### 2. Binary Triangle (Alternating 0/1) (⭐ Rating: 10/10)
 ```
 1
 01
@@ -35,7 +35,7 @@
 ```
 
 
-### 3. X Pattern
+### 3. X Pattern (⭐ Rating: 10/10)
 ```
 *       *
  *     *
@@ -49,15 +49,23 @@
 ```
 
 
-### 4. Check Character Type (Uppercase / Lowercase / Digit / Special Symbol)
+### 4. Check Character Type (Uppercase / Lowercase / Digit / Special Symbol) (⭐ Rating: 10/10)
 ```
 Input: @
 Output: Special Character
 ```
 
 
-### 5. Third Largest Among Three Numbers
+### 5. Third Largest Among Three Numbers (⭐ Rating: 9/10)
 ```
 Input: 10 50 30
-Output: 30 is the third largest
+Output: 10 is the third largest
 ```
+
+
+📊 Total Rating
+
+10 + 10 + 10 + 10 + 9 = 49/50
+
+⭐ Final Score: 9.8/10
+📈 Percentage= 98%
