@@ -4,3 +4,11 @@
     Example:
     Enter number: 12345
     Reverse: 54321
+
+2. Right Triangle
+
+    *
+    **
+    ***
+    ****
+    *****
